@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">UserCRUDApp</string>
+    <string name="name">Name: </string>
+    <string name="birthdate">Birthdate: </string>
+    <string name="network_error">Network error</string>
+    <string name="create_user">Create user</string>
+    <string name="delete_user">Delete user</string>
+    <string name="save_user">Save user</string>
+    <string name="user_deleted">User deleted!</string>
+    <string name="user_updated">User updated!</string>
+    <string name="user_created">User created!</string>
+    <string name="edit_user">Edit user</string>
 </resources>
